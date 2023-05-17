@@ -1,6 +1,6 @@
 # Edustipend Frontend Tasks
 
-A Frontend Engineer pre work tasks.
+A Frontend Engineer pre work tasks created with reactJs and styled with tailwindCss.
 
 <img width="1200" alt="ui" src="https://github-production-user-asset-6210df.s3.amazonaws.com/99425435/239027252-8c32dbd9-6ed0-4c6d-9915-aa0d3fff30bc.png">
 
@@ -17,8 +17,9 @@ The core components that make up the user interface above are:
 
 The react code for two of the components above:
 
-1. ## [NavBar](https://github.com/RB-Isiaq/edustipend/blob/main/src/components/NavBar.jsx)
-2. ## [Hero](https://github.com/RB-Isiaq/edustipend/blob/main/src/components/Hero.jsx)
+#### [Hero](https://github.com/RB-Isiaq/edustipend/blob/main/src/components/Hero.jsx)
+
+#### [NavBar](https://github.com/RB-Isiaq/edustipend/blob/main/src/components/NavBar.jsx)
 
 ## Task 3
 
