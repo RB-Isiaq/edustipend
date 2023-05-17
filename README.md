@@ -17,8 +17,8 @@ The core components that make up the user interface above are:
 
 The react code for two of the components above:
 
-1. #### [NavBar](https://github.com/RB-Isiaq/edustipend/blob/main/src/components/NavBar.jsx)
-2. #### [Hero](https://github.com/RB-Isiaq/edustipend/blob/main/src/components/Hero.jsx)
+1. ## [NavBar](https://github.com/RB-Isiaq/edustipend/blob/main/src/components/NavBar.jsx)
+2. ## [Hero](https://github.com/RB-Isiaq/edustipend/blob/main/src/components/Hero.jsx)
 
 ## Task 3
 
